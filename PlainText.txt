@@ -1,0 +1,3 @@
+a computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically
+modern digital electronic computers can perform generic sets of operations known as programs
+these programs enable computers to perform a wide range of tasks
